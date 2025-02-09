@@ -10,7 +10,7 @@ The project is organized into two main directories: `backend` and `frontend`.
 
 ### Backend
 
--   **Framework**: NestJS (with Express)
+-   **Framework**: NestJS
 -   **Endpoints**:
     -   `POST /superheroes`: Add a new superhero.
     -   `GET /superheroes`: Fetch the list of superheroes sorted by humility score.
