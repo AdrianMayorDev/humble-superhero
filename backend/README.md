@@ -1,4 +1,4 @@
-# Humble Superhero API - Backend
+# Humble Superhero
 
 ## Overview
 The Humble Superhero API is a simple RESTful API built with NestJS that allows users to manage a list of superheroes. Each superhero has a name, a superpower, and a humility score that reflects their humility on a scale from 1 to 10.
